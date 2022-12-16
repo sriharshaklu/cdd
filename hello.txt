@@ -1,0 +1,7 @@
+lab1
+continuos delivery and devos
+develop team
+operations team
+continuous integration
+continuous delivery
+continuous monitoring
