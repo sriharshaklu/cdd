@@ -1,0 +1,34 @@
+2000090069 
+pavan kumar reddy
+
+
+
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
+
+
+
+gitbash lo
+mkdir (filename)
+cd (filename)
+ssh-keygen -t rsa
+cat key1.pub
+keylink vastadi copy cheskoni github lo repository create chesi nxt settings lo ki velli sshkey create chyali key create chesepudu link paste chyali
+
+repository lo ki velthe ssh/https link vachiddi copy chy
+
+git init
+git clone (link paste chy)
+cd (repositorylo link lo vunna name)
+git status
+cat hello.txt
+notepad hello.txt
+ls
+cat hello.txt
+git status
+git add hello.txt
+git commit -m "v1.3"
+git push
