@@ -1,0 +1,17 @@
+mkdir (filename)
+cd (filename)
+ssh-keygen -t rsa
+cat (keyname).pub
+
+git init
+git clone (paste repository link)
+cd (name in repository link)
+git status
+cat (filename).txt
+notepad (filename).txt
+ls
+cat (filename).txt
+git status
+git add (filename).txt
+git commit -m "v1.3"
+git push
