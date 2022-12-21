@@ -1,0 +1,10 @@
+mkdir
+cd
+ssh-keygen -t rsa
+cat key1.pub
+git init
+git clone
+cd_(file name)
+git status
+cat hello.txt
+notepad hello.txt
