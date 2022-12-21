@@ -1,0 +1,7 @@
+git clone
+hello.txt
+git bash 
+git add
+git commit
+git diff
+git resent
